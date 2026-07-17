@@ -1,10 +1,8 @@
 # Decision Readiness Papers
 
-A collection of independent analytical papers exploring how information quality, documentation, communication, and organisational design influence decision-making in industrial environments.
+A collection of independent analytical papers exploring how information quality, documentation, communication, and organisational design influence decision-making in industrial and field environments.
 
 This repository examines recurring decision failures through a systems perspective, with an emphasis on understanding the conditions that enable or constrain reliable decisions rather than attributing outcomes solely to individual performance.
-
----
 
 ## Why this repository exists
 
@@ -22,8 +20,6 @@ These papers investigate those problems by asking a simple question:
 
 > **Was the system truly ready for the decision it expected someone to make?**
 
----
-
 ## What is Decision Readiness?
 
 Decision Readiness is an analytical perspective that evaluates whether people, processes, information, and operating conditions provide sufficient support for reliable decision-making.
@@ -31,8 +27,6 @@ Decision Readiness is an analytical perspective that evaluates whether people, p
 Rather than asking whether an individual made the correct decision, Decision Readiness asks whether the system created the conditions necessary for that decision to succeed.
 
 This perspective shifts analysis from assigning blame to understanding system performance.
-
----
 
 ## Repository Contents
 
@@ -44,8 +38,6 @@ Current papers include:
 - **DRN-005** – Paper-Based Reporting as Fragile Information Capture
 
 Each paper examines a different source of decision failure while following a consistent analytical structure.
-
----
 
 ## Analytical Framework
 
@@ -61,8 +53,6 @@ Each paper is organised into seven sections:
 
 This structure is intended to produce analyses that are systematic, repeatable, and comparable across different operational contexts.
 
----
-
 ## Scope
 
 The papers focus on themes including:
@@ -77,9 +67,7 @@ The papers focus on themes including:
 - Governance
 - Decision support
 
-Although inspired by industrial environments, the underlying concepts are applicable to any organisation that depends on timely, accurate information to make effective decisions.
-
----
+Although inspired by industrial and field environments, the underlying concepts are applicable to any organisation that depends on timely, accurate information to make effective decisions.
 
 ## Related Work
 
@@ -90,8 +78,6 @@ Some ideas presented in these papers have been explored through practical implem
 - **Grinder Reporting Reliability Dashboard** – Demonstrates how structured inspection data can be analysed using Excel and Power BI to evaluate reporting quality and support process improvement.
 
 Additional repositories will be linked as they become publicly available.
-
----
 
 ## Intended Audience
 
@@ -107,8 +93,6 @@ This repository is intended for professionals and researchers interested in:
 - Data Analytics
 - Decision Support Systems
 
----
-
 ## Disclaimer
 
 The analyses presented in this repository are independent and intended for professional discussion and learning.
@@ -117,7 +101,6 @@ They do not represent the views of any employer, client, or organisation and sho
 
 Where practical experience informs an analysis, observations have been generalised and anonymised to focus on broadly applicable organisational and systems principles.
 
----
 
 ## Author
 
